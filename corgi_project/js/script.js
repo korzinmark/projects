@@ -86,6 +86,8 @@ $("a[href^='#']").click(function(){
     return false;
 });
 
+//Modal windows closing function
+
 $('.modal__close').on('click', function() {
     $('.overlay, #order').fadeOut('slow');
 });
