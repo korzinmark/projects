@@ -12,11 +12,7 @@ On this site, with the help of native JS and some JS libraries, the following wa
 * closing the modal window 
 * form sending  
   
-You can see the first project in work [here](https://project.bonebreakershop.com/)
-  
 The second project I made was at the end of 2022 (webshop_project). This is an online store of posters and merch, and it is already more complicated than the first project, because after the content layout I connected to it CMS WordPress so that the admin has the opportunity to change the content on the site. In this project, the functionality written in JS is repeated, but nevertheless, this is already a multi-page site, where main pages are formed dynamically by substituting the header and footer, and it already works with PHP.
-  
-You can see the second project in work [here](https://en.bonebreakershop.com/)
   
 That's it!  
 I hope you appreciate! :)
