@@ -1,7 +1,6 @@
 # My projects
 Hello!  
-Here you can see my projects. All the design and development I did myself.  
-Both projects were for my friend.  
+Here you can see my projects. All the design and development I did by myself.  
 
 The first project I made was at the end of 2021. This is a pretty simple landing page website dedicated to my friend's dog (corgi_project).  
 On this site, with the help of native JS and some JS libraries, the following was done:  
@@ -13,6 +12,9 @@ On this site, with the help of native JS and some JS libraries, the following wa
 * form sending  
   
 The second project I made was at the end of 2022 (webshop_project). This is an online store of posters and merch, and it is already more complicated than the first project, because after the content layout I connected to it CMS WordPress so that the admin has the opportunity to change the content on the site. In this project, the functionality written in JS is repeated, but nevertheless, this is already a multi-page site, where main pages are formed dynamically by substituting the header and footer, and it already works with PHP.
-  
+
+Third project was my thesis, which I defended in June 2024 (with grade 5)
+It's created from a zero multipage website for personal stylist, that I connected then to CMS WordPress with a lot of features!
+
 That's it!  
 I hope you appreciate! :)
