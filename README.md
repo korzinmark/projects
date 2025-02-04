@@ -1,9 +1,9 @@
 # My projects
 Hello!  
-Here you can see my projects. All the design and development I did by myself.  
+Here you can see all my projects. All the design and development I did by myself.  
 
 The first project (corgi_project) I made was at the end of 2021. This is a pretty simple landing page website dedicated to my friend's dog.  
-On this site, with the help of native JS and some JS libraries, the following was done:  
+On this website, with the help of native JS and some JS libraries, the following was done:  
 * a hamburger menu for mobile versions 
 * a slider for the gallery [(slick-slider library)](https://kenwheeler.github.io/slick/)
 * form validation before sending [(jquery validation plugin)](https://jqueryvalidation.org/)
